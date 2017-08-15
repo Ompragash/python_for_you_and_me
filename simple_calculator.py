@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 Program make a simple calculator that can add, sub, mul and div using functions
 '''
